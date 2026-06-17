@@ -19,6 +19,9 @@ valorX = 512
 let vel_max = 35
 radio.setGroup(1)
 /**
+ * vittorio
+ */
+/**
  * soy vittorio
  */
 basic.forever(function () {
